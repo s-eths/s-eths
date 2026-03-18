@@ -12,12 +12,6 @@
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow"> 
 </p>
 
-## 🚀 About Me 
-* I build tools, bots, and automation scripts
-* I like fast, clean, no-bloat projects
-* Always learning new ways to optimize
-* Focused on real, useful software
-
 ## 📊 Stats 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=s-eths&show_icons=true&theme=tokyonight&hide_border=true">
