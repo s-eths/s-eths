@@ -9,7 +9,10 @@
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow"> 
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=s-eths&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-eths&layout=compact&theme=tokyonight&hide_border=true"> 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=s-eths&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=s-eths&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
