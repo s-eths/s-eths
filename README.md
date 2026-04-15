@@ -8,7 +8,3 @@
   <img src="https://img.shields.io/badge/Luau-111111?style=for-the-badge&logo=roblox&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow"> 
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=s-eths&theme=tokyonight" />
-</p>
